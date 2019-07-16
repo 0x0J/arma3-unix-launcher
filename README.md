@@ -1,9 +1,9 @@
 # ArmA 3 Unix Launcher
 
 ArmA 3 Launcher for Linux and Mac.
-Since Bohemia didn't port their launcher to Linux and Mac and existing launcher didn't satisfy my needs I decided to create my own.
+Since Bohemia didn't port their launcher to Linux and Mac and the existing launcher didn't satisfy my needs I decided to create my own.
 
-Launcher detects and symlinks all mods from Workshop and ArmA's main directory. It also allows to add your own mods from outside ArmA directory.
+Launcher detects and symlinks all mods from Workshop and ArmA's main directory. It also allows you to add your own mods from outside of the ArmA directory.
 
 ### Features
 
@@ -47,7 +47,7 @@ Binary package is currently unavailable. Please build from source or use [instal
 
 ### Building from source
 
-Gtkmm3 is required
+Gtkmm3 is required.
 
 #### Debian package
     apt-get install libgtkmm-3.0-1v5
